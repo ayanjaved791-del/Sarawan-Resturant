@@ -1,0 +1,6 @@
+{
+  "name": "Sarawan Fast Food",
+  "description": "Frontend demo for Sarawan Fast Food in Aziz Nagar, Karachi. Featuring authentic BBQ, Karahi, Fast Food & Chinese with dynamic cart, checkout, and demo order confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
